@@ -4,7 +4,7 @@ I'm a Frontend Web Developer who is passionate about building meaningful softwar
 
 I am interested about blockchain, NFTs, and cryptocurrency. 
 
-Currently I am self learning mobile development with Flutter, game development with Unreal Engine and Ethereum Blockchain during my free time.
+Currently I am self learning mobile development with Flutter and React Native.
 
 ## Find me here
 <a href='https://www.linkedin.com/in/someilam/'>LinkedIn</a>
