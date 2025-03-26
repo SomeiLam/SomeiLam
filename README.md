@@ -4,8 +4,8 @@ I'm a Frontend Web Developer who is passionate about building meaningful softwar
 
 Currently I am self learning mobile development with Flutter and React Native.
 
-## Find me here
+### Find me here
 <a href='https://www.linkedin.com/in/someilam/'>LinkedIn</a>
 
-## Check out my personal projects
+### Check out my personal projects
 <a href='https://someilam.github.io/my-portfolio'>Portfolio</a>
